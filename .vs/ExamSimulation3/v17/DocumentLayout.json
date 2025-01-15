@@ -1,0 +1,338 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\news\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\dal\\repositories\\concretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\concretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|solutionrelative:dal\\repositories\\abstractions\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\newscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|solutionrelative:dal\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29459313-9B36-44C2-A4DB-1744CCE43314}|DAL\\DAL.csproj|solutionrelative:dal\\contexts\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\views\\news\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\bl\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\dtos\\authdtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\profiles\\authprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\classtime\\source\\repos\\examsimulation3\\bl\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\dtos\\authdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\News\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:42:25.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Concretes\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:41:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "RelativeToolTip": "DAL\\Repositories\\Abstractions\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:40:20.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "DAL\\DbInitializer.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\DbInitializer.cs",
+              "RelativeToolTip": "DAL\\DbInitializer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:38:20.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DAL\\Contexts\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\DAL\\Contexts\\AppDbContext.cs",
+              "RelativeToolTip": "DAL\\Contexts\\AppDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwB4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:24:54.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Views\\News\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:08:22.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwCcAAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T14:00:01.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MVC\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:58:39.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:57:38.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T13:56:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\NewsController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCkAAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:11:39.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:11:15.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\AuthService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\AuthService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwCYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:21:35.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "MVC\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\DatabaseSeeder.cs",
+              "RelativeToolTip": "MVC\\DatabaseSeeder.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwC0AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T14:22:09.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAwwCAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:49:56.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Profiles\\AuthProfile.cs",
+              "RelativeDocumentMoniker": "BL\\Profiles\\AuthProfile.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Profiles\\AuthProfile.cs",
+              "RelativeToolTip": "BL\\Profiles\\AuthProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:26:04.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegisterDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\AuthDTOs\\RegisterDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:23:51.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\DTOs\\AuthDTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "BL\\DTOs\\AuthDTOs\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\DTOs\\AuthDTOs\\LoginDTO.cs",
+              "RelativeToolTip": "BL\\DTOs\\AuthDTOs\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:23:09.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\Classtime\\source\\repos\\ExamSimulation3\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-15T13:21:26.527Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
