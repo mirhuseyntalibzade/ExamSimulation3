@@ -24,7 +24,20 @@ namespace BL.Services.Concretes
         public async Task RegisterAsync(RegisterDTO userDTO)
         {
             IdentityUser user = _mapper.Map<IdentityUser>(userDTO);
-            await _userManager.CreateAsync(user, "User");
+            
+            IdentityResult userResult = await _userManager.CreateAsync(user, userDTO.Password);
+            if (!userResult.Succeeded)
+            {
+                var errors = string.Join(", ", userResult.Errors.Select(e => e.Description));
+                throw new Exception($"User registration failed: {errors}");
+            }
+
+            IdentityResult roleResult = await _userManager.AddToRoleAsync(user, "User");
+            if (!userResult.Succeeded)
+            {
+                var errors = string.Join(", ", userResult.Errors.Select(e => e.Description));
+                throw new Exception($"Adding role to user failed: {errors}");
+            }
         }
         public async Task LoginAsync(LoginDTO userDTO)
         {

@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\views\\myhttpstatuses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\myhttpstatuses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\controllers\\myhttpstatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\myhttpstatusescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\services\\concretes\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6741D1E8-B500-41CD-AB3F-8B7E769B70B7}|BL\\BL.csproj|solutionrelative:bl\\services\\abstractions\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|c:\\users\\my computer\\desktop\\examsimulation3\\mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC650B3E-13A7-4F0F-A375-D09957E3DAB3}|MVC\\MVC.csproj|solutionrelative:mvc\\databaseseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T03:24:27.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyHttpStatusesController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Controllers\\MyHttpStatusesController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\MyHttpStatusesController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Controllers\\MyHttpStatusesController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\MyHttpStatusesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:15:07.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\MyHttpStatuses\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\MyHttpStatuses\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\MyHttpStatuses\\Index.cshtml*",
+              "RelativeToolTip": "MVC\\Views\\MyHttpStatuses\\Index.cshtml*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T03:10:59.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Program.cs",
+              "RelativeDocumentMoniker": "MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Program.cs",
+              "RelativeToolTip": "MVC\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACsAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T03:07:38.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAAAGQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-16T02:57:27.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Concretes\\AuthService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\BL\\Services\\Concretes\\AuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Concretes\\AuthService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCYAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:50:29.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeDocumentMoniker": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\BL\\Services\\Abstractions\\IAuthService.cs",
+              "RelativeToolTip": "BL\\Services\\Abstractions\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:50:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MVC\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MVC\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:49:40.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "MVC\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:49:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DatabaseSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\DatabaseSeeder.cs",
+              "RelativeDocumentMoniker": "MVC\\DatabaseSeeder.cs",
+              "ToolTip": "C:\\Users\\My Computer\\Desktop\\ExamSimulation3\\MVC\\DatabaseSeeder.cs",
+              "RelativeToolTip": "MVC\\DatabaseSeeder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T02:29:46.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -39,6 +39,11 @@ builder.Services.AddAuthorization(opt =>
     opt.AddPolicy("User", policy => policy.RequireRole("User"));
 });
 
+builder.Services.ConfigureApplicationCookie(options =>
+{
+    options.AccessDeniedPath = "/MyHttpStatuses/Index";
+});
+
 var app = builder.Build();
 
 using (var scoped = app.Services.CreateScope())

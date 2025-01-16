@@ -98,7 +98,7 @@
                         @foreach (GetNewsDTO news in Model)
                         {
                             <li>
-                                <div class="imgl"><img src="~/uploads/news/@news.Description" alt="" /></div>
+                                <div class="imgl"><img width="160" src="~/uploads/news/@news.ImageURL" alt="" /></div>
                                 <p class="latestnews">@news.Description</p>
                                 <p class="readmore"><a href="#">Continue Reading &raquo;</a></p>
                             </li>
